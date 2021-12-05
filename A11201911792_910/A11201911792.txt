@@ -1,0 +1,13 @@
+A11.2019.11792
+
+Jawaban :
+Cube 	  -> Component = Transform, Cube <Mesh Filler>, Box Collider, Mesh Renderer, dan Material.
+Sphere 	  -> Component = Transform, Sphere <Mesh Filler>, Sphere Collider, Mesh Renderer, dan Material.
+Capsule   -> Component = Transform, Capsule <Mesh Filler>, Capsule Collider, Mesh Renderer, dan Material.
+Cylinder  -> Component = Transform, Cylinder <Mesh Filler>, Capsule Collider, Mesh Renderer, dan Material.
+Plane 	  -> Component = Transform, Plane <Mesh Filler>, Mesh Collider, Mesh Renderer, dan Material.
+Quad 	  -> Component = Transform, Quad <Mesh Filler>, Mesh Collider, Mesh Renderer, dan Material.
+Terrain   -> Component = Transform, Terrain, dan Terrain 
+Tree 	  -> Component = Transform, Tree, Mesh <Mesh Filler>, dan Mesh Renderer.
+Wind Zone -> Component = Transform, dan Wind Zone.
+3D Text   -> Component = Transform, Mesh Renderer, dan Text Mesh.
